@@ -17,6 +17,7 @@
 		D39B5A3627D891FF00AA9972 /* UpcomingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A3527D891FF00AA9972 /* UpcomingViewController.swift */; };
 		D39B5A3827D8924300AA9972 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A3727D8924300AA9972 /* SearchViewController.swift */; };
 		D39B5A3A27D8929F00AA9972 /* DownloadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */; };
+		D39B5A4127D9D5C900AA9972 /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		D39B5A3527D891FF00AA9972 /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		D39B5A3727D8924300AA9972 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadViewController.swift; sourceTree = "<group>"; };
+		D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,11 @@
 			children = (
 				D39B5A1B27D88F5B00AA9972 /* AppDelegate.swift */,
 				D39B5A1D27D88F5B00AA9972 /* SceneDelegate.swift */,
+				D39B5A3E27D9D2D900AA9972 /* Managers */,
+				D39B5A3F27D9D2E200AA9972 /* Resources */,
+				D39B5A3B27D9D23600AA9972 /* Models */,
+				D39B5A3C27D9D24300AA9972 /* Views */,
+				D39B5A3D27D9D25A00AA9972 /* ViewModels */,
 				D39B5A3227D8916A00AA9972 /* Controllers */,
 				D39B5A2727D88F5D00AA9972 /* Assets.xcassets */,
 				D39B5A2927D88F5D00AA9972 /* LaunchScreen.storyboard */,
@@ -85,6 +92,42 @@
 				D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */,
 			);
 			path = Controllers;
+			sourceTree = "<group>";
+		};
+		D39B5A3B27D9D23600AA9972 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		D39B5A3C27D9D24300AA9972 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		D39B5A3D27D9D25A00AA9972 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = ViewModels;
+			sourceTree = "<group>";
+		};
+		D39B5A3E27D9D2D900AA9972 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Managers;
+			sourceTree = "<group>";
+		};
+		D39B5A3F27D9D2E200AA9972 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -164,6 +207,7 @@
 				D39B5A1C27D88F5B00AA9972 /* AppDelegate.swift in Sources */,
 				D39B5A2627D88F5B00AA9972 /* Netflix.xcdatamodeld in Sources */,
 				D39B5A3A27D8929F00AA9972 /* DownloadViewController.swift in Sources */,
+				D39B5A4127D9D5C900AA9972 /* CollectionTableViewCell.swift in Sources */,
 				D39B5A1E27D88F5B00AA9972 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
