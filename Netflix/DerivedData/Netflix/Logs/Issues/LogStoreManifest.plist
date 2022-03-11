@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>B76A6E09-7AE9-470A-A3C1-9FB76CB3F85E</key>
+		<key>A228EA26-06CC-4033-B05C-10820DFB2DE1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>B76A6E09-7AE9-470A-A3C1-9FB76CB3F85E.xcactivitylog</string>
+			<string>A228EA26-06CC-4033-B05C-10820DFB2DE1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>Netflix-drpfhcbjiusspyfmreizmjqksjlq</string>
 			<key>timeStartedRecording</key>
-			<real>668590638.99139404</real>
+			<real>668681487.91450202</real>
 			<key>timeStoppedRecording</key>
-			<real>668590639.86027706</real>
+			<real>668681488.984429</real>
 			<key>title</key>
 			<string>Build target Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>B76A6E09-7AE9-470A-A3C1-9FB76CB3F85E</string>
+			<string>A228EA26-06CC-4033-B05C-10820DFB2DE1</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

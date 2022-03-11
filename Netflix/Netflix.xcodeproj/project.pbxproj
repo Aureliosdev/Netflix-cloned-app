@@ -18,6 +18,7 @@
 		D39B5A3827D8924300AA9972 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A3727D8924300AA9972 /* SearchViewController.swift */; };
 		D39B5A3A27D8929F00AA9972 /* DownloadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */; };
 		D39B5A4127D9D5C900AA9972 /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */; };
+		D39B5A7F27DB2E2900AA9972 /* HeroHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A7E27DB2E2900AA9972 /* HeroHeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		D39B5A3727D8924300AA9972 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadViewController.swift; sourceTree = "<group>"; };
 		D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
+		D39B5A7E27DB2E2900AA9972 /* HeroHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */,
+				D39B5A7E27DB2E2900AA9972 /* HeroHeaderView.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				D39B5A3827D8924300AA9972 /* SearchViewController.swift in Sources */,
 				D39B5A3427D891AF00AA9972 /* HomeViewController.swift in Sources */,
 				D39B5A2027D88F5B00AA9972 /* MainTabBarViewController.swift in Sources */,
+				D39B5A7F27DB2E2900AA9972 /* HeroHeaderView.swift in Sources */,
 				D39B5A1C27D88F5B00AA9972 /* AppDelegate.swift in Sources */,
 				D39B5A2627D88F5B00AA9972 /* Netflix.xcdatamodeld in Sources */,
 				D39B5A3A27D8929F00AA9972 /* DownloadViewController.swift in Sources */,
