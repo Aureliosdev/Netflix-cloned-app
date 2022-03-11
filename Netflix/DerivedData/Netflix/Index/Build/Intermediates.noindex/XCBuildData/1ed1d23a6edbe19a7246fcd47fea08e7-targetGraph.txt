@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Netflix in Netflix, no dependencies
-Netflix in Netflix, no dependencies
