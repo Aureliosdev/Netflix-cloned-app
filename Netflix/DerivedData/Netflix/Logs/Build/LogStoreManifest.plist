@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>1A48453A-2A9B-4279-8927-A91A530E997A</key>
+		<key>00F686EC-235F-4057-AA6E-AD173B30C50C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>1A48453A-2A9B-4279-8927-A91A530E997A.xcactivitylog</string>
+			<string>00F686EC-235F-4057-AA6E-AD173B30C50C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876462.38922501</real>
+			<real>669029168.76461005</real>
 			<key>timeStoppedRecording</key>
-			<real>668876464.69115996</real>
+			<real>669029170.14095199</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>1A48453A-2A9B-4279-8927-A91A530E997A</string>
+			<string>00F686EC-235F-4057-AA6E-AD173B30C50C</string>
 		</dict>
-		<key>21405E1D-12DF-465C-819E-AA951E882B11</key>
+		<key>044DA480-83C9-4E20-BAE9-27DC507EC107</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,75 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>21405E1D-12DF-465C-819E-AA951E882B11.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Netflix project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Netflix</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Netflix</string>
-			<key>timeStartedRecording</key>
-			<real>668859360.71314394</real>
-			<key>timeStoppedRecording</key>
-			<real>668859361.90748</real>
-			<key>title</key>
-			<string>Build Netflix</string>
-			<key>uniqueIdentifier</key>
-			<string>21405E1D-12DF-465C-819E-AA951E882B11</string>
-		</dict>
-		<key>23514385-8695-4C6C-9008-D6C79ED385B0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>23514385-8695-4C6C-9008-D6C79ED385B0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Netflix project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Netflix</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Netflix</string>
-			<key>timeStartedRecording</key>
-			<real>668876005.981354</real>
-			<key>timeStoppedRecording</key>
-			<real>668876007.45999002</real>
-			<key>title</key>
-			<string>Build Netflix</string>
-			<key>uniqueIdentifier</key>
-			<string>23514385-8695-4C6C-9008-D6C79ED385B0</string>
-		</dict>
-		<key>24B6E71B-13EF-4EFA-8436-1437F7ABCFD8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>24B6E71B-13EF-4EFA-8436-1437F7ABCFD8.xcactivitylog</string>
+			<string>044DA480-83C9-4E20-BAE9-27DC507EC107.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +66,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876107.00875795</real>
+			<real>669018056.59113395</real>
 			<key>timeStoppedRecording</key>
-			<real>668876107.05700505</real>
+			<real>669018057.67713106</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>24B6E71B-13EF-4EFA-8436-1437F7ABCFD8</string>
+			<string>044DA480-83C9-4E20-BAE9-27DC507EC107</string>
 		</dict>
-		<key>253E3896-7DFF-4D58-AEF5-8EC045F1FA80</key>
+		<key>0A2EE6DB-5C87-4968-B127-89D14AFA0BBA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>253E3896-7DFF-4D58-AEF5-8EC045F1FA80.xcactivitylog</string>
+			<string>0A2EE6DB-5C87-4968-B127-89D14AFA0BBA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +100,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668873038.12298298</real>
+			<real>669015943.43250501</real>
 			<key>timeStoppedRecording</key>
-			<real>668873040.10192001</real>
+			<real>669015943.50717103</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>253E3896-7DFF-4D58-AEF5-8EC045F1FA80</string>
+			<string>0A2EE6DB-5C87-4968-B127-89D14AFA0BBA</string>
 		</dict>
-		<key>2BC3B456-F067-4E78-B4E6-63C24D2FA53B</key>
+		<key>0B2F5F20-5365-4818-8306-1529C7CADBDC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,109 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2BC3B456-F067-4E78-B4E6-63C24D2FA53B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Netflix project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Netflix</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Netflix</string>
-			<key>timeStartedRecording</key>
-			<real>668859365.30325401</real>
-			<key>timeStoppedRecording</key>
-			<real>668859365.91864502</real>
-			<key>title</key>
-			<string>Build Netflix</string>
-			<key>uniqueIdentifier</key>
-			<string>2BC3B456-F067-4E78-B4E6-63C24D2FA53B</string>
-		</dict>
-		<key>3C223AAF-F114-45A1-B1DC-1A11816A88BB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3C223AAF-F114-45A1-B1DC-1A11816A88BB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Netflix project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Netflix</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Netflix</string>
-			<key>timeStartedRecording</key>
-			<real>668873163.60065901</real>
-			<key>timeStoppedRecording</key>
-			<real>668873163.66374004</real>
-			<key>title</key>
-			<string>Build Netflix</string>
-			<key>uniqueIdentifier</key>
-			<string>3C223AAF-F114-45A1-B1DC-1A11816A88BB</string>
-		</dict>
-		<key>468D18B2-C525-46B5-89F8-858A1AC10FED</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>468D18B2-C525-46B5-89F8-858A1AC10FED.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Netflix project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Netflix</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Netflix</string>
-			<key>timeStartedRecording</key>
-			<real>668876163.09688401</real>
-			<key>timeStoppedRecording</key>
-			<real>668876163.16482699</real>
-			<key>title</key>
-			<string>Build Netflix</string>
-			<key>uniqueIdentifier</key>
-			<string>468D18B2-C525-46B5-89F8-858A1AC10FED</string>
-		</dict>
-		<key>47F09A22-85C5-47CA-B4DE-5BDAB191A3C6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>47F09A22-85C5-47CA-B4DE-5BDAB191A3C6.xcactivitylog</string>
+			<string>0B2F5F20-5365-4818-8306-1529C7CADBDC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +134,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876104.07600105</real>
+			<real>669017498.46489596</real>
 			<key>timeStoppedRecording</key>
-			<real>668876105.53432298</real>
+			<real>669017499.59983003</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>47F09A22-85C5-47CA-B4DE-5BDAB191A3C6</string>
+			<string>0B2F5F20-5365-4818-8306-1529C7CADBDC</string>
 		</dict>
-		<key>6A0E3B6D-C486-4459-9EC8-13594AE329C6</key>
+		<key>0DDEDEA7-01D3-408E-8155-87BD7B82AA14</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -321,7 +151,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6A0E3B6D-C486-4459-9EC8-13594AE329C6.xcactivitylog</string>
+			<string>0DDEDEA7-01D3-408E-8155-87BD7B82AA14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018183.358078</real>
+			<key>timeStoppedRecording</key>
+			<real>669018184.19681001</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>0DDEDEA7-01D3-408E-8155-87BD7B82AA14</string>
+		</dict>
+		<key>0E416D85-CEE1-4D62-BD0A-A48D3540E143</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E416D85-CEE1-4D62-BD0A-A48D3540E143.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017534.39130402</real>
+			<key>timeStoppedRecording</key>
+			<real>669017534.61633694</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>0E416D85-CEE1-4D62-BD0A-A48D3540E143</string>
+		</dict>
+		<key>1271A067-EC4F-49BC-BA75-B76D58B50878</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1271A067-EC4F-49BC-BA75-B76D58B50878.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,15 +236,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876570.694525</real>
+			<real>669029442.18708706</real>
 			<key>timeStoppedRecording</key>
-			<real>668876570.78070104</real>
+			<real>669029442.29495394</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>6A0E3B6D-C486-4459-9EC8-13594AE329C6</string>
+			<string>1271A067-EC4F-49BC-BA75-B76D58B50878</string>
 		</dict>
-		<key>71CEFD76-7655-4DEE-850A-5C049B96175E</key>
+		<key>14AB449F-CAB6-46D8-BB05-085F1B0A76CB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -355,7 +253,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>71CEFD76-7655-4DEE-850A-5C049B96175E.xcactivitylog</string>
+			<string>14AB449F-CAB6-46D8-BB05-085F1B0A76CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023669.36445904</real>
+			<key>timeStoppedRecording</key>
+			<real>669023670.63525295</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>14AB449F-CAB6-46D8-BB05-085F1B0A76CB</string>
+		</dict>
+		<key>15333FCB-E0E1-4AA8-AADB-45504FFCE0E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>15333FCB-E0E1-4AA8-AADB-45504FFCE0E3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -372,15 +304,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668873041.24830103</real>
+			<real>669021751.86959195</real>
 			<key>timeStoppedRecording</key>
-			<real>668873041.32200503</real>
+			<real>669021752.81396103</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>71CEFD76-7655-4DEE-850A-5C049B96175E</string>
+			<string>15333FCB-E0E1-4AA8-AADB-45504FFCE0E3</string>
 		</dict>
-		<key>8A19B319-3A71-46AB-84B9-D932F3AAAD11</key>
+		<key>162688DC-3EBE-40FA-B1CE-15B34065A513</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -389,7 +321,177 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8A19B319-3A71-46AB-84B9-D932F3AAAD11.xcactivitylog</string>
+			<string>162688DC-3EBE-40FA-B1CE-15B34065A513.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028141.44184399</real>
+			<key>timeStoppedRecording</key>
+			<real>669028141.82995403</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>162688DC-3EBE-40FA-B1CE-15B34065A513</string>
+		</dict>
+		<key>18B41A53-4A2E-4DD6-9896-D263A3629B75</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18B41A53-4A2E-4DD6-9896-D263A3629B75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017545.94702697</real>
+			<key>timeStoppedRecording</key>
+			<real>669017546.79568899</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>18B41A53-4A2E-4DD6-9896-D263A3629B75</string>
+		</dict>
+		<key>1B98BA2A-AB1D-467B-84F7-C3C8722DB42C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B98BA2A-AB1D-467B-84F7-C3C8722DB42C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022088.75534499</real>
+			<key>timeStoppedRecording</key>
+			<real>669022089.07138705</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>1B98BA2A-AB1D-467B-84F7-C3C8722DB42C</string>
+		</dict>
+		<key>1BE5E211-64E2-4CA0-98AB-EB4E93738EEB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BE5E211-64E2-4CA0-98AB-EB4E93738EEB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017537.77687895</real>
+			<key>timeStoppedRecording</key>
+			<real>669017537.99988103</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>1BE5E211-64E2-4CA0-98AB-EB4E93738EEB</string>
+		</dict>
+		<key>1C2785A1-14FA-4B93-B7E0-D74F0D73EA28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1C2785A1-14FA-4B93-B7E0-D74F0D73EA28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669016864.06681001</real>
+			<key>timeStoppedRecording</key>
+			<real>669016864.80301094</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>1C2785A1-14FA-4B93-B7E0-D74F0D73EA28</string>
+		</dict>
+		<key>1EC752B7-8B81-4CCC-BEFD-E11313D573EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1EC752B7-8B81-4CCC-BEFD-E11313D573EF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -406,15 +508,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668873159.34911799</real>
+			<real>669021546.20237899</real>
 			<key>timeStoppedRecording</key>
-			<real>668873161.47711897</real>
+			<real>669021547.80828702</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>8A19B319-3A71-46AB-84B9-D932F3AAAD11</string>
+			<string>1EC752B7-8B81-4CCC-BEFD-E11313D573EF</string>
 		</dict>
-		<key>8A19F77D-49D0-4D7A-82AA-97F7A2BA6F9B</key>
+		<key>2051CCB1-E1EB-4DE3-B1DA-F0489C280317</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -423,7 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8A19F77D-49D0-4D7A-82AA-97F7A2BA6F9B.xcactivitylog</string>
+			<string>2051CCB1-E1EB-4DE3-B1DA-F0489C280317.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -440,15 +542,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668875976.492957</real>
+			<real>669029354.29494405</real>
 			<key>timeStoppedRecording</key>
-			<real>668875978.03977501</real>
+			<real>669029354.38599002</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>8A19F77D-49D0-4D7A-82AA-97F7A2BA6F9B</string>
+			<string>2051CCB1-E1EB-4DE3-B1DA-F0489C280317</string>
 		</dict>
-		<key>95773336-8B4C-4D61-AB39-AA2D1BFEECD9</key>
+		<key>2076959F-EBBE-4B02-A46F-C1C24FE74BEE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -457,7 +559,109 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>95773336-8B4C-4D61-AB39-AA2D1BFEECD9.xcactivitylog</string>
+			<string>2076959F-EBBE-4B02-A46F-C1C24FE74BEE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025920.856655</real>
+			<key>timeStoppedRecording</key>
+			<real>669025921.71704805</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>2076959F-EBBE-4B02-A46F-C1C24FE74BEE</string>
+		</dict>
+		<key>238764D5-7A65-4B05-9FBA-765D7D717A86</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>238764D5-7A65-4B05-9FBA-765D7D717A86.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028063.050246</real>
+			<key>timeStoppedRecording</key>
+			<real>669028064.62880099</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>238764D5-7A65-4B05-9FBA-765D7D717A86</string>
+		</dict>
+		<key>255FE311-E8A5-45D0-A8C4-D82FEBD1BF5A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>255FE311-E8A5-45D0-A8C4-D82FEBD1BF5A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025459.80440605</real>
+			<key>timeStoppedRecording</key>
+			<real>669025460.38186705</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>255FE311-E8A5-45D0-A8C4-D82FEBD1BF5A</string>
+		</dict>
+		<key>26DAF921-BF34-4BAA-9E20-2787067C355E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26DAF921-BF34-4BAA-9E20-2787067C355E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +678,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668872409.91121304</real>
+			<real>669022292.72437</real>
 			<key>timeStoppedRecording</key>
-			<real>668872410.03697896</real>
+			<real>669022293.557482</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>95773336-8B4C-4D61-AB39-AA2D1BFEECD9</string>
+			<string>26DAF921-BF34-4BAA-9E20-2787067C355E</string>
 		</dict>
-		<key>A8F6BDBB-B394-4563-88F5-90F8F1905B78</key>
+		<key>2827A804-29C5-4E39-8AEC-CCF5E498D48E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -491,7 +695,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>A8F6BDBB-B394-4563-88F5-90F8F1905B78.xcactivitylog</string>
+			<string>2827A804-29C5-4E39-8AEC-CCF5E498D48E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -508,15 +712,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668872482.65499604</real>
+			<real>669017916.34836698</real>
 			<key>timeStoppedRecording</key>
-			<real>668872482.82527995</real>
+			<real>669017917.25663197</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>A8F6BDBB-B394-4563-88F5-90F8F1905B78</string>
+			<string>2827A804-29C5-4E39-8AEC-CCF5E498D48E</string>
 		</dict>
-		<key>BFF1C911-1CAE-4BB1-9927-759AE4F25787</key>
+		<key>282F01C9-27ED-403B-8F08-D91DC46D3AFD</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -525,7 +729,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BFF1C911-1CAE-4BB1-9927-759AE4F25787.xcactivitylog</string>
+			<string>282F01C9-27ED-403B-8F08-D91DC46D3AFD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -542,15 +746,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668872572.41443396</real>
+			<real>669029275.95719802</real>
 			<key>timeStoppedRecording</key>
-			<real>668872572.55252397</real>
+			<real>669029276.95408595</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>BFF1C911-1CAE-4BB1-9927-759AE4F25787</string>
+			<string>282F01C9-27ED-403B-8F08-D91DC46D3AFD</string>
 		</dict>
-		<key>D882B3F7-8550-472E-A7B8-165182327DFF</key>
+		<key>28FB1373-5AF3-4CA4-A9E5-DCD33CD52D99</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -559,7 +763,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D882B3F7-8550-472E-A7B8-165182327DFF.xcactivitylog</string>
+			<string>28FB1373-5AF3-4CA4-A9E5-DCD33CD52D99.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025567.49284601</real>
+			<key>timeStoppedRecording</key>
+			<real>669025568.30659795</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>28FB1373-5AF3-4CA4-A9E5-DCD33CD52D99</string>
+		</dict>
+		<key>2C591C24-711E-4E7E-936F-C84EA8BECC05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2C591C24-711E-4E7E-936F-C84EA8BECC05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028707.54394901</real>
+			<key>timeStoppedRecording</key>
+			<real>669028707.896034</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>2C591C24-711E-4E7E-936F-C84EA8BECC05</string>
+		</dict>
+		<key>2CDC4699-6D18-4872-8C5E-21D9BF77FEC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CDC4699-6D18-4872-8C5E-21D9BF77FEC9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -576,15 +848,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876552.03790498</real>
+			<real>669028483.13913405</real>
 			<key>timeStoppedRecording</key>
-			<real>668876552.10084295</real>
+			<real>669028484.13517296</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>D882B3F7-8550-472E-A7B8-165182327DFF</string>
+			<string>2CDC4699-6D18-4872-8C5E-21D9BF77FEC9</string>
 		</dict>
-		<key>E2532D61-14D0-47B5-A75E-7D41A1719E51</key>
+		<key>30D28D4F-1E13-4AA6-B02D-3F6CD5FB88A4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -593,7 +865,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E2532D61-14D0-47B5-A75E-7D41A1719E51.xcactivitylog</string>
+			<string>30D28D4F-1E13-4AA6-B02D-3F6CD5FB88A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025941.34551501</real>
+			<key>timeStoppedRecording</key>
+			<real>669025941.72515905</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>30D28D4F-1E13-4AA6-B02D-3F6CD5FB88A4</string>
+		</dict>
+		<key>3430CD7B-30AA-454E-A900-EA7B54B826C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3430CD7B-30AA-454E-A900-EA7B54B826C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023619.96561897</real>
+			<key>timeStoppedRecording</key>
+			<real>669023621.02783799</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>3430CD7B-30AA-454E-A900-EA7B54B826C2</string>
+		</dict>
+		<key>36F209E9-A28A-4149-B8E6-ADB83F76D74D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36F209E9-A28A-4149-B8E6-ADB83F76D74D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -610,15 +950,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668709233.91574705</real>
+			<real>669018929.15275204</real>
 			<key>timeStoppedRecording</key>
-			<real>668709233.98628199</real>
+			<real>669018930.65810204</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>E2532D61-14D0-47B5-A75E-7D41A1719E51</string>
+			<string>36F209E9-A28A-4149-B8E6-ADB83F76D74D</string>
 		</dict>
-		<key>F1F0A827-9342-4C83-8515-2E652DAD7163</key>
+		<key>3894F2E7-C746-42E3-8D83-76E985919914</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -627,7 +967,75 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F1F0A827-9342-4C83-8515-2E652DAD7163.xcactivitylog</string>
+			<string>3894F2E7-C746-42E3-8D83-76E985919914.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019005.008322</real>
+			<key>timeStoppedRecording</key>
+			<real>669019005.99137104</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>3894F2E7-C746-42E3-8D83-76E985919914</string>
+		</dict>
+		<key>38E03D5E-FA21-4F2C-B95D-E48460A231C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38E03D5E-FA21-4F2C-B95D-E48460A231C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023570.32525802</real>
+			<key>timeStoppedRecording</key>
+			<real>669023570.670434</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>38E03D5E-FA21-4F2C-B95D-E48460A231C0</string>
+		</dict>
+		<key>3ADB9AF8-FB36-4FBF-8AE8-F84D0E962864</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3ADB9AF8-FB36-4FBF-8AE8-F84D0E962864.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -644,15 +1052,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876465.21297204</real>
+			<real>669028771.01514304</real>
 			<key>timeStoppedRecording</key>
-			<real>668876466.69165802</real>
+			<real>669028771.97396004</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>F1F0A827-9342-4C83-8515-2E652DAD7163</string>
+			<string>3ADB9AF8-FB36-4FBF-8AE8-F84D0E962864</string>
 		</dict>
-		<key>F2AB60DB-1E01-40D5-BDDB-F32BA39FF6E0</key>
+		<key>3BC94A3F-10C6-4CDB-B842-64CDDBBCDC14</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -661,7 +1069,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F2AB60DB-1E01-40D5-BDDB-F32BA39FF6E0.xcactivitylog</string>
+			<string>3BC94A3F-10C6-4CDB-B842-64CDDBBCDC14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017297.57433796</real>
+			<key>timeStoppedRecording</key>
+			<real>669017297.92326999</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>3BC94A3F-10C6-4CDB-B842-64CDDBBCDC14</string>
+		</dict>
+		<key>3D268C03-7B3D-4ED4-90D8-3731F40BEDC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3D268C03-7B3D-4ED4-90D8-3731F40BEDC7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -678,15 +1120,15 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876550.16688204</real>
+			<real>669018982.91845703</real>
 			<key>timeStoppedRecording</key>
-			<real>668876551.62318504</real>
+			<real>669018984.00811696</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>F2AB60DB-1E01-40D5-BDDB-F32BA39FF6E0</string>
+			<string>3D268C03-7B3D-4ED4-90D8-3731F40BEDC7</string>
 		</dict>
-		<key>F5B00ADD-59B1-4E24-987F-18BCBE911A5D</key>
+		<key>3E1F0249-1C47-4523-896D-8441652B24B6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -695,7 +1137,177 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>F5B00ADD-59B1-4E24-987F-18BCBE911A5D.xcactivitylog</string>
+			<string>3E1F0249-1C47-4523-896D-8441652B24B6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669024171.46610606</real>
+			<key>timeStoppedRecording</key>
+			<real>669024171.98529506</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>3E1F0249-1C47-4523-896D-8441652B24B6</string>
+		</dict>
+		<key>4000D1E1-CF3B-49ED-963E-D83049465712</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4000D1E1-CF3B-49ED-963E-D83049465712.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018977.164132</real>
+			<key>timeStoppedRecording</key>
+			<real>669018977.81167698</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>4000D1E1-CF3B-49ED-963E-D83049465712</string>
+		</dict>
+		<key>41838A75-D8D2-43B0-A053-D252A15E56F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41838A75-D8D2-43B0-A053-D252A15E56F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028294.81374502</real>
+			<key>timeStoppedRecording</key>
+			<real>669028295.57539701</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>41838A75-D8D2-43B0-A053-D252A15E56F8</string>
+		</dict>
+		<key>41C58E47-0722-4E6A-8D32-FE1F67D72C12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>41C58E47-0722-4E6A-8D32-FE1F67D72C12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022215.36528599</real>
+			<key>timeStoppedRecording</key>
+			<real>669022215.63003099</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>41C58E47-0722-4E6A-8D32-FE1F67D72C12</string>
+		</dict>
+		<key>44D2C762-589E-4B63-8124-53F3E9E3496A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44D2C762-589E-4B63-8124-53F3E9E3496A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025472.92884398</real>
+			<key>timeStoppedRecording</key>
+			<real>669025473.60580802</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>44D2C762-589E-4B63-8124-53F3E9E3496A</string>
+		</dict>
+		<key>461F7B14-85B3-4D39-8D83-76A7838FA508</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>461F7B14-85B3-4D39-8D83-76A7838FA508.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -712,13 +1324,3073 @@
 			<key>signature</key>
 			<string>Build Netflix</string>
 			<key>timeStartedRecording</key>
-			<real>668876161.21919596</real>
+			<real>669029122.78844595</real>
 			<key>timeStoppedRecording</key>
-			<real>668876162.49912596</real>
+			<real>669029124.34458494</real>
 			<key>title</key>
 			<string>Build Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>F5B00ADD-59B1-4E24-987F-18BCBE911A5D</string>
+			<string>461F7B14-85B3-4D39-8D83-76A7838FA508</string>
+		</dict>
+		<key>47D6B3DA-E0ED-4692-938E-1B646F87A8EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>47D6B3DA-E0ED-4692-938E-1B646F87A8EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022374.50921094</real>
+			<key>timeStoppedRecording</key>
+			<real>669022375.27606297</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>47D6B3DA-E0ED-4692-938E-1B646F87A8EA</string>
+		</dict>
+		<key>4B2CF2BA-35D7-418C-87A5-B9566C6F097E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4B2CF2BA-35D7-418C-87A5-B9566C6F097E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019594.27993298</real>
+			<key>timeStoppedRecording</key>
+			<real>669019594.54639697</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>4B2CF2BA-35D7-418C-87A5-B9566C6F097E</string>
+		</dict>
+		<key>4C18979C-6030-400B-BA8E-3040A9562400</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C18979C-6030-400B-BA8E-3040A9562400.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023463.94115603</real>
+			<key>timeStoppedRecording</key>
+			<real>669023465.43135798</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>4C18979C-6030-400B-BA8E-3040A9562400</string>
+		</dict>
+		<key>4C5FEE16-2E24-4A3A-B631-2FB2DAAA9906</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C5FEE16-2E24-4A3A-B631-2FB2DAAA9906.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021878.33168304</real>
+			<key>timeStoppedRecording</key>
+			<real>669021878.56225801</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>4C5FEE16-2E24-4A3A-B631-2FB2DAAA9906</string>
+		</dict>
+		<key>4E227BCE-C3B3-48F3-A6E8-17E81E911FF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E227BCE-C3B3-48F3-A6E8-17E81E911FF0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028716.91314197</real>
+			<key>timeStoppedRecording</key>
+			<real>669028717.86369002</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>4E227BCE-C3B3-48F3-A6E8-17E81E911FF0</string>
+		</dict>
+		<key>4E3A43E5-F46D-42A6-9A9D-54572227629C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E3A43E5-F46D-42A6-9A9D-54572227629C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023522.58727705</real>
+			<key>timeStoppedRecording</key>
+			<real>669023523.02461696</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>4E3A43E5-F46D-42A6-9A9D-54572227629C</string>
+		</dict>
+		<key>5301D340-9F26-47FE-8350-37E35674FD6D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5301D340-9F26-47FE-8350-37E35674FD6D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017024.99232101</real>
+			<key>timeStoppedRecording</key>
+			<real>669017025.23803103</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>5301D340-9F26-47FE-8350-37E35674FD6D</string>
+		</dict>
+		<key>53ABA379-BD64-4E2C-A19E-658493B2CA94</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53ABA379-BD64-4E2C-A19E-658493B2CA94.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022182.61358297</real>
+			<key>timeStoppedRecording</key>
+			<real>669022182.90901399</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>53ABA379-BD64-4E2C-A19E-658493B2CA94</string>
+		</dict>
+		<key>55DAA952-F8FF-4D93-8378-3ADEF2C9DAD5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>55DAA952-F8FF-4D93-8378-3ADEF2C9DAD5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669011342.13329101</real>
+			<key>timeStoppedRecording</key>
+			<real>669011342.24801898</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>55DAA952-F8FF-4D93-8378-3ADEF2C9DAD5</string>
+		</dict>
+		<key>58A7DB90-4DB5-4FFC-BACF-9F64CF06850C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>58A7DB90-4DB5-4FFC-BACF-9F64CF06850C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028533.60172296</real>
+			<key>timeStoppedRecording</key>
+			<real>669028533.73019695</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>58A7DB90-4DB5-4FFC-BACF-9F64CF06850C</string>
+		</dict>
+		<key>5DC53E43-0318-42E3-ABC2-FFC53730082B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DC53E43-0318-42E3-ABC2-FFC53730082B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017046.06452203</real>
+			<key>timeStoppedRecording</key>
+			<real>669017047.26226401</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>5DC53E43-0318-42E3-ABC2-FFC53730082B</string>
+		</dict>
+		<key>5F41B27F-AA6A-4733-BE82-9B08E56789C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F41B27F-AA6A-4733-BE82-9B08E56789C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018191.11954498</real>
+			<key>timeStoppedRecording</key>
+			<real>669018191.18660903</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>5F41B27F-AA6A-4733-BE82-9B08E56789C4</string>
+		</dict>
+		<key>5F84AF93-2A1F-4D1D-9EC4-52747BF7A9BB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5F84AF93-2A1F-4D1D-9EC4-52747BF7A9BB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018189.55953002</real>
+			<key>timeStoppedRecording</key>
+			<real>669018190.580338</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>5F84AF93-2A1F-4D1D-9EC4-52747BF7A9BB</string>
+		</dict>
+		<key>5FF7BA80-56FB-476D-A256-9FB27E5EA76B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5FF7BA80-56FB-476D-A256-9FB27E5EA76B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028145.38000906</real>
+			<key>timeStoppedRecording</key>
+			<real>669028145.640486</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>5FF7BA80-56FB-476D-A256-9FB27E5EA76B</string>
+		</dict>
+		<key>65BA182C-8423-42E6-96B7-58D2114DA74C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65BA182C-8423-42E6-96B7-58D2114DA74C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021719.20416701</real>
+			<key>timeStoppedRecording</key>
+			<real>669021719.43739903</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>65BA182C-8423-42E6-96B7-58D2114DA74C</string>
+		</dict>
+		<key>65CD3AE8-9AEB-4E36-837B-2F97E64C7D82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65CD3AE8-9AEB-4E36-837B-2F97E64C7D82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028734.23141897</real>
+			<key>timeStoppedRecording</key>
+			<real>669028735.59215605</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>65CD3AE8-9AEB-4E36-837B-2F97E64C7D82</string>
+		</dict>
+		<key>67300635-15AE-47A0-8B2E-765DD2D12B7E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67300635-15AE-47A0-8B2E-765DD2D12B7E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029439.93503499</real>
+			<key>timeStoppedRecording</key>
+			<real>669029441.43955505</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>67300635-15AE-47A0-8B2E-765DD2D12B7E</string>
+		</dict>
+		<key>6BB43090-EF17-4308-ACFB-6332FF38F531</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BB43090-EF17-4308-ACFB-6332FF38F531.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019604.89775598</real>
+			<key>timeStoppedRecording</key>
+			<real>669019605.13145995</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>6BB43090-EF17-4308-ACFB-6332FF38F531</string>
+		</dict>
+		<key>6EA0A64A-8989-4B5A-9E3D-CAC7294BA310</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EA0A64A-8989-4B5A-9E3D-CAC7294BA310.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017208.62519598</real>
+			<key>timeStoppedRecording</key>
+			<real>669017209.942855</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>6EA0A64A-8989-4B5A-9E3D-CAC7294BA310</string>
+		</dict>
+		<key>6EC88C79-BC40-4B54-8393-4AE1501913DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6EC88C79-BC40-4B54-8393-4AE1501913DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022113.83962405</real>
+			<key>timeStoppedRecording</key>
+			<real>669022114.92713296</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>6EC88C79-BC40-4B54-8393-4AE1501913DB</string>
+		</dict>
+		<key>70C86BEC-E735-4982-B5F5-DE5AF6732934</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70C86BEC-E735-4982-B5F5-DE5AF6732934.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023151.45953405</real>
+			<key>timeStoppedRecording</key>
+			<real>669023158.220523</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>70C86BEC-E735-4982-B5F5-DE5AF6732934</string>
+		</dict>
+		<key>7148B0DD-361A-4E9F-9F95-4431E9D4D399</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7148B0DD-361A-4E9F-9F95-4431E9D4D399.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019161.92091</real>
+			<key>timeStoppedRecording</key>
+			<real>669019162.16422498</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7148B0DD-361A-4E9F-9F95-4431E9D4D399</string>
+		</dict>
+		<key>7551BB57-B391-4EAA-BEE2-53218D78C97F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7551BB57-B391-4EAA-BEE2-53218D78C97F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023885.60181701</real>
+			<key>timeStoppedRecording</key>
+			<real>669023887.17253101</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7551BB57-B391-4EAA-BEE2-53218D78C97F</string>
+		</dict>
+		<key>77003984-79B3-4EDE-B132-3ABE9AC5A8F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77003984-79B3-4EDE-B132-3ABE9AC5A8F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017335.75480294</real>
+			<key>timeStoppedRecording</key>
+			<real>669017336.88811803</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>77003984-79B3-4EDE-B132-3ABE9AC5A8F5</string>
+		</dict>
+		<key>7A0B1E9F-8606-4502-A9AE-C36633AD7C1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A0B1E9F-8606-4502-A9AE-C36633AD7C1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019313.82239795</real>
+			<key>timeStoppedRecording</key>
+			<real>669019314.74239099</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7A0B1E9F-8606-4502-A9AE-C36633AD7C1B</string>
+		</dict>
+		<key>7C23A798-0835-4019-AD6F-80D8F292C38B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C23A798-0835-4019-AD6F-80D8F292C38B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017853.38135004</real>
+			<key>timeStoppedRecording</key>
+			<real>669017854.63275301</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7C23A798-0835-4019-AD6F-80D8F292C38B</string>
+		</dict>
+		<key>7CE78868-7B94-4B0A-916D-BB4100C1CD2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7CE78868-7B94-4B0A-916D-BB4100C1CD2A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022097.96115506</real>
+			<key>timeStoppedRecording</key>
+			<real>669022098.80050004</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7CE78868-7B94-4B0A-916D-BB4100C1CD2A</string>
+		</dict>
+		<key>7DAD391B-0CCB-434B-B6AB-B58C79341C13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DAD391B-0CCB-434B-B6AB-B58C79341C13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018114.46738994</real>
+			<key>timeStoppedRecording</key>
+			<real>669018115.78876495</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7DAD391B-0CCB-434B-B6AB-B58C79341C13</string>
+		</dict>
+		<key>7F37CD82-4E2F-43EC-B7CB-09E416903D8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7F37CD82-4E2F-43EC-B7CB-09E416903D8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029176.09200501</real>
+			<key>timeStoppedRecording</key>
+			<real>669029176.74056304</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>7F37CD82-4E2F-43EC-B7CB-09E416903D8C</string>
+		</dict>
+		<key>849EEC17-E082-49BF-A194-F32DE30EF1D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>849EEC17-E082-49BF-A194-F32DE30EF1D8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017516.46912301</real>
+			<key>timeStoppedRecording</key>
+			<real>669017516.875911</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>849EEC17-E082-49BF-A194-F32DE30EF1D8</string>
+		</dict>
+		<key>875C7B51-3F3C-4A35-A231-0314298B31B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>875C7B51-3F3C-4A35-A231-0314298B31B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018051.11368704</real>
+			<key>timeStoppedRecording</key>
+			<real>669018051.66755605</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>875C7B51-3F3C-4A35-A231-0314298B31B3</string>
+		</dict>
+		<key>87E73FCB-FD1E-47B8-8F3B-93D6A65D54EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>87E73FCB-FD1E-47B8-8F3B-93D6A65D54EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025987.86981702</real>
+			<key>timeStoppedRecording</key>
+			<real>669025989.38057005</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>87E73FCB-FD1E-47B8-8F3B-93D6A65D54EA</string>
+		</dict>
+		<key>8A2FC702-1B09-4E56-982A-80148F1A26AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A2FC702-1B09-4E56-982A-80148F1A26AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017281.19049203</real>
+			<key>timeStoppedRecording</key>
+			<real>669017281.45439398</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8A2FC702-1B09-4E56-982A-80148F1A26AF</string>
+		</dict>
+		<key>8A46A864-4ED1-4A5F-80D5-D12CA038B415</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A46A864-4ED1-4A5F-80D5-D12CA038B415.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023852.47945905</real>
+			<key>timeStoppedRecording</key>
+			<real>669023852.90485001</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8A46A864-4ED1-4A5F-80D5-D12CA038B415</string>
+		</dict>
+		<key>8AB8E846-B276-4F0A-84EA-D6D8185A62B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8AB8E846-B276-4F0A-84EA-D6D8185A62B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669016875.67887795</real>
+			<key>timeStoppedRecording</key>
+			<real>669016875.92070699</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8AB8E846-B276-4F0A-84EA-D6D8185A62B3</string>
+		</dict>
+		<key>8B3F7FA2-615F-4DD9-AF1F-EA3BF4F8D322</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B3F7FA2-615F-4DD9-AF1F-EA3BF4F8D322.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028847.01418102</real>
+			<key>timeStoppedRecording</key>
+			<real>669028847.13730204</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8B3F7FA2-615F-4DD9-AF1F-EA3BF4F8D322</string>
+		</dict>
+		<key>8C8D3AD7-1558-450C-B052-82F9D0005F48</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8C8D3AD7-1558-450C-B052-82F9D0005F48.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029458.76377296</real>
+			<key>timeStoppedRecording</key>
+			<real>669029460.10874999</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8C8D3AD7-1558-450C-B052-82F9D0005F48</string>
+		</dict>
+		<key>8D7672CA-21E5-43E0-8716-CDBF92652C89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D7672CA-21E5-43E0-8716-CDBF92652C89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018116.59128702</real>
+			<key>timeStoppedRecording</key>
+			<real>669018116.65691602</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8D7672CA-21E5-43E0-8716-CDBF92652C89</string>
+		</dict>
+		<key>8F54989C-DE96-485B-9D7D-891EAED722B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8F54989C-DE96-485B-9D7D-891EAED722B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018103.484182</real>
+			<key>timeStoppedRecording</key>
+			<real>669018103.54340005</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>8F54989C-DE96-485B-9D7D-891EAED722B3</string>
+		</dict>
+		<key>99AD32C4-421E-4C1D-B43F-202620BB87EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99AD32C4-421E-4C1D-B43F-202620BB87EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669022249.58428705</real>
+			<key>timeStoppedRecording</key>
+			<real>669022250.49128795</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>99AD32C4-421E-4C1D-B43F-202620BB87EC</string>
+		</dict>
+		<key>9CE74AC1-76EF-46F2-B406-415DB7D76A0F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9CE74AC1-76EF-46F2-B406-415DB7D76A0F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669016787.55808496</real>
+			<key>timeStoppedRecording</key>
+			<real>669016788.10314</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>9CE74AC1-76EF-46F2-B406-415DB7D76A0F</string>
+		</dict>
+		<key>A081D136-76E7-4453-84A4-07423A8C702A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A081D136-76E7-4453-84A4-07423A8C702A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028176.30835402</real>
+			<key>timeStoppedRecording</key>
+			<real>669028176.88828301</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>A081D136-76E7-4453-84A4-07423A8C702A</string>
+		</dict>
+		<key>A3E2EA7B-4FD8-4341-9402-76AC725B6544</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3E2EA7B-4FD8-4341-9402-76AC725B6544.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023587.661538</real>
+			<key>timeStoppedRecording</key>
+			<real>669023588.59449005</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>A3E2EA7B-4FD8-4341-9402-76AC725B6544</string>
+		</dict>
+		<key>A65CD9F3-EB1B-4E56-81C1-E86AF47A0A79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A65CD9F3-EB1B-4E56-81C1-E86AF47A0A79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021890.09356904</real>
+			<key>timeStoppedRecording</key>
+			<real>669021890.65051901</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>A65CD9F3-EB1B-4E56-81C1-E86AF47A0A79</string>
+		</dict>
+		<key>ADB79D28-7C41-4AC0-8633-4891AFF69612</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADB79D28-7C41-4AC0-8633-4891AFF69612.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017484.03288996</real>
+			<key>timeStoppedRecording</key>
+			<real>669017484.28376102</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>ADB79D28-7C41-4AC0-8633-4891AFF69612</string>
+		</dict>
+		<key>ADE11A23-F9CB-4AA3-9597-ED185EF93FFF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ADE11A23-F9CB-4AA3-9597-ED185EF93FFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669016707.42009103</real>
+			<key>timeStoppedRecording</key>
+			<real>669016708.67041004</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>ADE11A23-F9CB-4AA3-9597-ED185EF93FFF</string>
+		</dict>
+		<key>AEEF7746-A035-4E40-BB5A-0D9E6E5B343A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AEEF7746-A035-4E40-BB5A-0D9E6E5B343A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023579.853917</real>
+			<key>timeStoppedRecording</key>
+			<real>669023580.22137797</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>AEEF7746-A035-4E40-BB5A-0D9E6E5B343A</string>
+		</dict>
+		<key>B4AB5622-0134-4EED-9576-D9BD290AA64E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4AB5622-0134-4EED-9576-D9BD290AA64E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018411.35651505</real>
+			<key>timeStoppedRecording</key>
+			<real>669018412.60798705</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>B4AB5622-0134-4EED-9576-D9BD290AA64E</string>
+		</dict>
+		<key>B542F01B-BC05-489A-92A5-4464DAEFCBB0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B542F01B-BC05-489A-92A5-4464DAEFCBB0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017477.61407399</real>
+			<key>timeStoppedRecording</key>
+			<real>669017478.28603804</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>B542F01B-BC05-489A-92A5-4464DAEFCBB0</string>
+		</dict>
+		<key>B5AA352E-CA3C-4AE8-BCE0-D15BB52F9A80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5AA352E-CA3C-4AE8-BCE0-D15BB52F9A80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021666.28448403</real>
+			<key>timeStoppedRecording</key>
+			<real>669021667.40875399</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>B5AA352E-CA3C-4AE8-BCE0-D15BB52F9A80</string>
+		</dict>
+		<key>B6EC31A4-4A6A-4F17-BCDA-BA00A0A47520</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B6EC31A4-4A6A-4F17-BCDA-BA00A0A47520.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028157.254269</real>
+			<key>timeStoppedRecording</key>
+			<real>669028157.78467798</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>B6EC31A4-4A6A-4F17-BCDA-BA00A0A47520</string>
+		</dict>
+		<key>B8E4DD27-D7E3-4A5D-872C-9B90C9419087</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8E4DD27-D7E3-4A5D-872C-9B90C9419087.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021805.55810201</real>
+			<key>timeStoppedRecording</key>
+			<real>669021806.78965402</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>B8E4DD27-D7E3-4A5D-872C-9B90C9419087</string>
+		</dict>
+		<key>BA368DAE-972A-4A25-B9BF-EF34219857AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA368DAE-972A-4A25-B9BF-EF34219857AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029130.16025805</real>
+			<key>timeStoppedRecording</key>
+			<real>669029130.26729906</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BA368DAE-972A-4A25-B9BF-EF34219857AC</string>
+		</dict>
+		<key>BA79BADD-3F55-4417-B3E7-A26EE628D0F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA79BADD-3F55-4417-B3E7-A26EE628D0F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669016589.27251804</real>
+			<key>timeStoppedRecording</key>
+			<real>669016590.87711</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BA79BADD-3F55-4417-B3E7-A26EE628D0F1</string>
+		</dict>
+		<key>BA87DEDB-48C3-4FCF-BBEA-4C8DB41CB414</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA87DEDB-48C3-4FCF-BBEA-4C8DB41CB414.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019169.25059605</real>
+			<key>timeStoppedRecording</key>
+			<real>669019170.34218001</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BA87DEDB-48C3-4FCF-BBEA-4C8DB41CB414</string>
+		</dict>
+		<key>BA99CF0A-0811-4C85-8B2F-4AA73F2010D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BA99CF0A-0811-4C85-8B2F-4AA73F2010D0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019286.60652006</real>
+			<key>timeStoppedRecording</key>
+			<real>669019287.79572701</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BA99CF0A-0811-4C85-8B2F-4AA73F2010D0</string>
+		</dict>
+		<key>BC4A0E00-0803-4A48-954B-D7F8D42748E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BC4A0E00-0803-4A48-954B-D7F8D42748E7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669016622.49933505</real>
+			<key>timeStoppedRecording</key>
+			<real>669016623.75080597</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BC4A0E00-0803-4A48-954B-D7F8D42748E7</string>
+		</dict>
+		<key>BD8D1573-101C-4356-8FC2-74A215DE063E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD8D1573-101C-4356-8FC2-74A215DE063E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017817.20039594</real>
+			<key>timeStoppedRecording</key>
+			<real>669017817.83175898</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BD8D1573-101C-4356-8FC2-74A215DE063E</string>
+		</dict>
+		<key>BDCF9000-CE18-4B1A-9410-C50C15D3274E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BDCF9000-CE18-4B1A-9410-C50C15D3274E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019454.04296601</real>
+			<key>timeStoppedRecording</key>
+			<real>669019455.26078701</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>BDCF9000-CE18-4B1A-9410-C50C15D3274E</string>
+		</dict>
+		<key>C183E6F6-0D01-4D3F-921F-A3F31F7DEAAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C183E6F6-0D01-4D3F-921F-A3F31F7DEAAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028399.76376498</real>
+			<key>timeStoppedRecording</key>
+			<real>669028400.85078096</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>C183E6F6-0D01-4D3F-921F-A3F31F7DEAAC</string>
+		</dict>
+		<key>C22DE28A-4AE2-442D-93B8-AD039401DC23</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C22DE28A-4AE2-442D-93B8-AD039401DC23.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021858.16424298</real>
+			<key>timeStoppedRecording</key>
+			<real>669021859.47624004</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>C22DE28A-4AE2-442D-93B8-AD039401DC23</string>
+		</dict>
+		<key>C71DE073-047A-4B41-9093-36D717CC2E0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C71DE073-047A-4B41-9093-36D717CC2E0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669027994.57169902</real>
+			<key>timeStoppedRecording</key>
+			<real>669027996.48356998</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>C71DE073-047A-4B41-9093-36D717CC2E0E</string>
+		</dict>
+		<key>CA08DA32-D561-4473-87F6-FC64128421C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA08DA32-D561-4473-87F6-FC64128421C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669024565.69339395</real>
+			<key>timeStoppedRecording</key>
+			<real>669024566.52227998</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>CA08DA32-D561-4473-87F6-FC64128421C2</string>
+		</dict>
+		<key>CA7817D7-D42E-4484-B560-E0B0F9A33F81</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA7817D7-D42E-4484-B560-E0B0F9A33F81.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669024902.71726203</real>
+			<key>timeStoppedRecording</key>
+			<real>669024903.29545701</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>CA7817D7-D42E-4484-B560-E0B0F9A33F81</string>
+		</dict>
+		<key>CD73B132-AC75-4BF2-9768-3E28C503F6D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CD73B132-AC75-4BF2-9768-3E28C503F6D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017302.53229296</real>
+			<key>timeStoppedRecording</key>
+			<real>669017303.03134596</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>CD73B132-AC75-4BF2-9768-3E28C503F6D3</string>
+		</dict>
+		<key>CFE4E203-67D5-40D7-9DFA-2761B4D49480</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CFE4E203-67D5-40D7-9DFA-2761B4D49480.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028774.78561199</real>
+			<key>timeStoppedRecording</key>
+			<real>669028774.87546396</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>CFE4E203-67D5-40D7-9DFA-2761B4D49480</string>
+		</dict>
+		<key>D08D831E-55E4-4796-8F73-66B96574F918</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D08D831E-55E4-4796-8F73-66B96574F918.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028150.95017803</real>
+			<key>timeStoppedRecording</key>
+			<real>669028151.206352</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>D08D831E-55E4-4796-8F73-66B96574F918</string>
+		</dict>
+		<key>D18CB8E6-A365-4E8B-8299-FF782CCB6180</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D18CB8E6-A365-4E8B-8299-FF782CCB6180.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019148.09585297</real>
+			<key>timeStoppedRecording</key>
+			<real>669019148.72193897</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>D18CB8E6-A365-4E8B-8299-FF782CCB6180</string>
+		</dict>
+		<key>D1F50AE6-83F0-4330-B006-E161E1A83678</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1F50AE6-83F0-4330-B006-E161E1A83678.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021696.62992501</real>
+			<key>timeStoppedRecording</key>
+			<real>669021697.89613903</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>D1F50AE6-83F0-4330-B006-E161E1A83678</string>
+		</dict>
+		<key>D53F98C4-A7C9-4FF5-9EE3-A83A335F6EB9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D53F98C4-A7C9-4FF5-9EE3-A83A335F6EB9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669023296.83705103</real>
+			<key>timeStoppedRecording</key>
+			<real>669023298.53629196</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>D53F98C4-A7C9-4FF5-9EE3-A83A335F6EB9</string>
+		</dict>
+		<key>D75AC14F-E1A4-441C-857D-6049F875FBC7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D75AC14F-E1A4-441C-857D-6049F875FBC7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017098.45701897</real>
+			<key>timeStoppedRecording</key>
+			<real>669017099.72037494</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>D75AC14F-E1A4-441C-857D-6049F875FBC7</string>
+		</dict>
+		<key>D782E2C0-0B4F-455E-A8BC-218DC1E7B933</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D782E2C0-0B4F-455E-A8BC-218DC1E7B933.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028380.89382195</real>
+			<key>timeStoppedRecording</key>
+			<real>669028381.85651195</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>D782E2C0-0B4F-455E-A8BC-218DC1E7B933</string>
+		</dict>
+		<key>DA5A0C54-D00E-4B22-8667-190E1E899E0E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA5A0C54-D00E-4B22-8667-190E1E899E0E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669030798.31232798</real>
+			<key>timeStoppedRecording</key>
+			<real>669030798.45936501</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>DA5A0C54-D00E-4B22-8667-190E1E899E0E</string>
+		</dict>
+		<key>DBE271E7-FCC1-4285-893B-8B14208F943B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBE271E7-FCC1-4285-893B-8B14208F943B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019611.32377601</real>
+			<key>timeStoppedRecording</key>
+			<real>669019612.40918803</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>DBE271E7-FCC1-4285-893B-8B14208F943B</string>
+		</dict>
+		<key>DE476D94-0786-4AD7-8236-C7E5A21CA477</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE476D94-0786-4AD7-8236-C7E5A21CA477.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021730.47413397</real>
+			<key>timeStoppedRecording</key>
+			<real>669021730.70984399</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>DE476D94-0786-4AD7-8236-C7E5A21CA477</string>
+		</dict>
+		<key>DF0903DA-9134-423F-A0EB-723366097A89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF0903DA-9134-423F-A0EB-723366097A89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025946.61680102</real>
+			<key>timeStoppedRecording</key>
+			<real>669025947.01844001</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>DF0903DA-9134-423F-A0EB-723366097A89</string>
+		</dict>
+		<key>DFE18804-E9DD-497A-9D8D-3B36D880AC3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFE18804-E9DD-497A-9D8D-3B36D880AC3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017521.83712804</real>
+			<key>timeStoppedRecording</key>
+			<real>669017522.076985</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>DFE18804-E9DD-497A-9D8D-3B36D880AC3A</string>
+		</dict>
+		<key>E28F1E6B-3AC1-4C7B-9F98-ABA70CAE2E3B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E28F1E6B-3AC1-4C7B-9F98-ABA70CAE2E3B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017269.18400705</real>
+			<key>timeStoppedRecording</key>
+			<real>669017269.72112799</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>E28F1E6B-3AC1-4C7B-9F98-ABA70CAE2E3B</string>
+		</dict>
+		<key>E2B7CA27-31C9-4B4D-870D-6AFD03338B9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2B7CA27-31C9-4B4D-870D-6AFD03338B9F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029246.44016504</real>
+			<key>timeStoppedRecording</key>
+			<real>669029246.54756796</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>E2B7CA27-31C9-4B4D-870D-6AFD03338B9F</string>
+		</dict>
+		<key>E2B8805E-ADC8-419A-B176-9763EBFFE3EC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2B8805E-ADC8-419A-B176-9763EBFFE3EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669019589.10857499</real>
+			<key>timeStoppedRecording</key>
+			<real>669019589.49381399</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>E2B8805E-ADC8-419A-B176-9763EBFFE3EC</string>
+		</dict>
+		<key>E390F6F8-D48A-4432-9649-2AF430810C8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E390F6F8-D48A-4432-9649-2AF430810C8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669018099.58835196</real>
+			<key>timeStoppedRecording</key>
+			<real>669018100.67505503</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>E390F6F8-D48A-4432-9649-2AF430810C8E</string>
+		</dict>
+		<key>E71890B4-4BE1-4EB8-8708-EBA04B9861DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E71890B4-4BE1-4EB8-8708-EBA04B9861DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029244.82551205</real>
+			<key>timeStoppedRecording</key>
+			<real>669029245.79918802</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>E71890B4-4BE1-4EB8-8708-EBA04B9861DC</string>
+		</dict>
+		<key>ED177225-D319-4FE7-A520-34B088C01218</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED177225-D319-4FE7-A520-34B088C01218.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669021709.42200005</real>
+			<key>timeStoppedRecording</key>
+			<real>669021709.80556905</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>ED177225-D319-4FE7-A520-34B088C01218</string>
+		</dict>
+		<key>ED5B82AE-B965-4EF4-A1BB-02E4ECB0F390</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ED5B82AE-B965-4EF4-A1BB-02E4ECB0F390.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028377.09869504</real>
+			<key>timeStoppedRecording</key>
+			<real>669028377.42757297</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>ED5B82AE-B965-4EF4-A1BB-02E4ECB0F390</string>
+		</dict>
+		<key>F63B1D19-2A3F-4CDE-9992-0F33134F8C90</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F63B1D19-2A3F-4CDE-9992-0F33134F8C90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669017018.93226099</real>
+			<key>timeStoppedRecording</key>
+			<real>669017019.57512903</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>F63B1D19-2A3F-4CDE-9992-0F33134F8C90</string>
+		</dict>
+		<key>F92F5A0B-5F2E-46FD-AFA8-4A968F7561E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F92F5A0B-5F2E-46FD-AFA8-4A968F7561E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669029349.08243406</real>
+			<key>timeStoppedRecording</key>
+			<real>669029350.11176205</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>F92F5A0B-5F2E-46FD-AFA8-4A968F7561E3</string>
+		</dict>
+		<key>F9776956-D6BC-41A6-93EE-B9FF1155D460</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9776956-D6BC-41A6-93EE-B9FF1155D460.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669024866.10371602</real>
+			<key>timeStoppedRecording</key>
+			<real>669024866.68762898</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>F9776956-D6BC-41A6-93EE-B9FF1155D460</string>
+		</dict>
+		<key>FA172FE4-C93D-4953-A9E9-E3717963B9C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA172FE4-C93D-4953-A9E9-E3717963B9C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669025962.04483902</real>
+			<key>timeStoppedRecording</key>
+			<real>669025962.58615899</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>FA172FE4-C93D-4953-A9E9-E3717963B9C3</string>
+		</dict>
+		<key>FA85E0E1-FD36-443B-B59C-E5D6F84E2C35</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA85E0E1-FD36-443B-B59C-E5D6F84E2C35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669032088.21339703</real>
+			<key>timeStoppedRecording</key>
+			<real>669032088.28179395</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>FA85E0E1-FD36-443B-B59C-E5D6F84E2C35</string>
+		</dict>
+		<key>FC072BB1-298C-4089-872E-C71C73427D12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC072BB1-298C-4089-872E-C71C73427D12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Netflix project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Netflix</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Netflix</string>
+			<key>timeStartedRecording</key>
+			<real>669028363.55179298</real>
+			<key>timeStoppedRecording</key>
+			<real>669028364.11816096</real>
+			<key>title</key>
+			<string>Build Netflix</string>
+			<key>uniqueIdentifier</key>
+			<string>FC072BB1-298C-4089-872E-C71C73427D12</string>
 		</dict>
 	</dict>
 </dict>

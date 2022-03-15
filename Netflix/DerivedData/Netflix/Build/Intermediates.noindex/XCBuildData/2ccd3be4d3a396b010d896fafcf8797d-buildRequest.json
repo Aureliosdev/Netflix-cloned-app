@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "cddd626b6134fd78b2eee8f345b21c2e237255d81d03bc53ee6775a2d3438057"
+    }
+  ],
+  "containerPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/Netflix.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/DerivedData/Netflix/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/DerivedData/Netflix/Build/Products",
+      "derivedDataPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/DerivedData/Netflix/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/DerivedData/Netflix/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/aurelioleclarke/Documents/GitHub/Netflix-cloned-app/Netflix/DerivedData/Netflix/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "CF294FC5-875A-4FDE-BD66-5E15B4A45325",
+          "TARGET_DEVICE_MODEL" : "iPhone14,3",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

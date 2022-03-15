@@ -6,16 +6,16 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4A23B191-C429-41AA-98FC-CEFB172E791D</key>
+		<key>1F29BC8D-B3B2-4E95-ADF7-CC242C439D15</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
 			<key>documentTypeString</key>
 			<string>&lt;nil&gt;</string>
 			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
 			<key>fileName</key>
-			<string>4A23B191-C429-41AA-98FC-CEFB172E791D.xcactivitylog</string>
+			<string>1F29BC8D-B3B2-4E95-ADF7-CC242C439D15.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -24,15 +24,71 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
+			<string>SDWebImageMapKit-fvimjjoswykywibacbhmflpfhjkm</string>
+			<key>timeStartedRecording</key>
+			<real>669023156.67226505</real>
+			<key>timeStoppedRecording</key>
+			<real>669023156.99377</real>
+			<key>title</key>
+			<string>Build target SDWebImageMapKit</string>
+			<key>uniqueIdentifier</key>
+			<string>1F29BC8D-B3B2-4E95-ADF7-CC242C439D15</string>
+		</dict>
+		<key>8A2CE421-BF5E-4E30-BFE7-097303B567BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>8A2CE421-BF5E-4E30-BFE7-097303B567BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
 			<string>Netflix-drpfhcbjiusspyfmreizmjqksjlq</string>
 			<key>timeStartedRecording</key>
-			<real>668876550.31824303</real>
+			<real>669032088.27623606</real>
 			<key>timeStoppedRecording</key>
-			<real>668876551.61142004</real>
+			<real>669032088.27640605</real>
 			<key>title</key>
 			<string>Build target Netflix</string>
 			<key>uniqueIdentifier</key>
-			<string>4A23B191-C429-41AA-98FC-CEFB172E791D</string>
+			<string>8A2CE421-BF5E-4E30-BFE7-097303B567BA</string>
+		</dict>
+		<key>B51D48FA-13F3-4164-95B1-FD27E84DBD89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>B51D48FA-13F3-4164-95B1-FD27E84DBD89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>SDWebImage-fvimjjoswykywibacbhmflpfhjkm</string>
+			<key>timeStartedRecording</key>
+			<real>669023153.64993298</real>
+			<key>timeStoppedRecording</key>
+			<real>669023156.81771398</real>
+			<key>title</key>
+			<string>Build target SDWebImage</string>
+			<key>uniqueIdentifier</key>
+			<string>B51D48FA-13F3-4164-95B1-FD27E84DBD89</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
