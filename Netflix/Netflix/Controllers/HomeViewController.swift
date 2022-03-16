@@ -127,7 +127,7 @@ extension HomeViewController: UITableViewDataSource, UITableViewDelegate {
                 switch result {
                 case .success(let titles) :
                     cell.configure(with: titles)
-                case .failure(let error):
+                case .failure(let error) :
                     print(error.localizedDescription)
                 }
             }
@@ -152,8 +152,8 @@ extension HomeViewController: UITableViewDataSource, UITableViewDelegate {
         guard let header = view as? UITableViewHeaderFooterView else {return }
         header.textLabel?.font = .systemFont(ofSize: 16,weight: .semibold)
         header.textLabel?.frame = CGRect(x: header.bounds.origin.x, y: header.bounds.origin.y, width: 100, height: header.bounds.height)
-        header.textLabel?.textColor  = .red
-        header.textLabel?.text = header.textLabel?.text?.uppercased()
+        header.textLabel?.textColor  = .white
+        header.textLabel?.text = header.textLabel?.text?.capitalizeFirstLetter()
     }
     
     func scrollViewDidScroll(_ scrollView: UIScrollView) {

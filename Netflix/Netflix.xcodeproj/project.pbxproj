@@ -25,6 +25,8 @@
 		D39B5A3A27D8929F00AA9972 /* DownloadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */; };
 		D39B5A4127D9D5C900AA9972 /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */; };
 		D39B5A7F27DB2E2900AA9972 /* HeroHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D39B5A7E27DB2E2900AA9972 /* HeroHeaderView.swift */; };
+		D3B41D7E27E1D9BB00956821 /* TitleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3B41D7D27E1D9BB00956821 /* TitleViewModel.swift */; };
+		D3EE484127E1D13B004B0AC4 /* TitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3EE484027E1D13B004B0AC4 /* TitleTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +48,8 @@
 		D39B5A3927D8929F00AA9972 /* DownloadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadViewController.swift; sourceTree = "<group>"; };
 		D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
 		D39B5A7E27DB2E2900AA9972 /* HeroHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderView.swift; sourceTree = "<group>"; };
+		D3B41D7D27E1D9BB00956821 /* TitleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewModel.swift; sourceTree = "<group>"; };
+		D3EE484027E1D13B004B0AC4 /* TitleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,7 @@
 				D39B5A4027D9D5C900AA9972 /* CollectionTableViewCell.swift */,
 				D39B5A7E27DB2E2900AA9972 /* HeroHeaderView.swift */,
 				D335F5D227E0773000565115 /* TitleCollectionViewCell.swift */,
+				D3EE484027E1D13B004B0AC4 /* TitleTableViewCell.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -129,6 +134,7 @@
 		D39B5A3D27D9D25A00AA9972 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				D3B41D7D27E1D9BB00956821 /* TitleViewModel.swift */,
 			);
 			name = ViewModels;
 			sourceTree = "<group>";
@@ -236,8 +242,10 @@
 				D335F5D327E0773100565115 /* TitleCollectionViewCell.swift in Sources */,
 				D39B5A2627D88F5B00AA9972 /* Netflix.xcdatamodeld in Sources */,
 				D335F5CF27DF72F100565115 /* Extensions.swift in Sources */,
+				D3EE484127E1D13B004B0AC4 /* TitleTableViewCell.swift in Sources */,
 				D39B5A3A27D8929F00AA9972 /* DownloadViewController.swift in Sources */,
 				D3138D7E27DF34CD008D9FF5 /* APICaller.swift in Sources */,
+				D3B41D7E27E1D9BB00956821 /* TitleViewModel.swift in Sources */,
 				D39B5A4127D9D5C900AA9972 /* CollectionTableViewCell.swift in Sources */,
 				D39B5A1E27D88F5B00AA9972 /* SceneDelegate.swift in Sources */,
 			);
