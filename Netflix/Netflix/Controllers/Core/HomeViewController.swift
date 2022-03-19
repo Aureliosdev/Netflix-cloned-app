@@ -44,7 +44,7 @@ class HomeViewController: UIViewController {
         homeFeedTable.tableHeaderView = headerView
         configureNavBar()
        
-    
+        APICaller.shared.getMovies(with: "Prison break")
     }
    
     
