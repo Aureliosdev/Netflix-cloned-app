@@ -7,10 +7,15 @@
 
 import UIKit
 
+protocol SearchResultViewControllerDelegate: AnyObject {
+    func searchResultViewControllerTapItem(_viewModel: TitlePreviewViewModel)
+}
+
 class SearchResultViewController: UIViewController {
 
     public var titles: [Title] = [Title]()
     
+    public weak var delegate: SearchResultViewControllerDelegate?
     public let searchResultsCollectionView: UICollectionView = {
         
         let layout = UICollectionViewFlowLayout()
@@ -50,7 +55,9 @@ extension SearchResultViewController: UICollectionViewDelegate, UICollectionView
         cell.configure(with: title.poster_path ?? "")
         return cell
     }
-
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        collectionView.deselectItem(at: indexPath, animated: true)
+    }
 
 }
 

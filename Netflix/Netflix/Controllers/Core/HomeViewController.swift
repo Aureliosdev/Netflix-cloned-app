@@ -21,6 +21,8 @@ enum Sections: Int {
 
 class HomeViewController: UIViewController {
   
+    private var RandomTrendingMovie: Title?
+    private var headerView: HeroHeaderView?
     
     let sectionTitles: [String] = ["Trending Movies", "Trending TV","Popular","Top rated","Upcoming Movies"]
     
@@ -40,13 +42,26 @@ class HomeViewController: UIViewController {
         view.addSubview(homeFeedTable)
         homeFeedTable.delegate = self
         homeFeedTable.dataSource = self
-        let headerView = HeroHeaderView(frame: CGRect(x: 0, y: 0, width: view.bounds.width, height: 450))
+        headerView = HeroHeaderView(frame: CGRect(x: 0, y: 0, width: view.bounds.width, height: 450))
         homeFeedTable.tableHeaderView = headerView
         configureNavBar()
-       
-        APICaller.shared.getMovies(with: "Prison break")
+        
+       heroHeaderView() 
     }
    
+    private func heroHeaderView() {
+        APICaller.shared.getTrendingMovies { [weak self] result in
+            switch result {
+            case .success(let titles):
+                let selectedItem = titles.randomElement()
+                self?.RandomTrendingMovie = selectedItem
+                self?.headerView?.configure(with: TitleViewModel(titleName: selectedItem?.original_title ?? "", posterURL: selectedItem?.poster_path ?? ""))
+            case .failure(let error):
+                print(error.localizedDescription)
+            }
+        }
+    }
+    
     
     
     override func viewDidLayoutSubviews() {
@@ -59,7 +74,7 @@ class HomeViewController: UIViewController {
  
     private func configureNavBar() {
     
-    var image = UIImage(named: "netflixLog")
+    var image = UIImage(named: "netflix_logo")
         image = image?.withRenderingMode(.alwaysOriginal)
         
         navigationItem.leftBarButtonItem = UIBarButtonItem(image: image, style: .done, target: self, action: nil)
@@ -95,6 +110,7 @@ extension HomeViewController: UITableViewDataSource, UITableViewDelegate {
                 }
             }
        
+            cell.delegate = self
         case Sections.TrendingTv.rawValue:
             APICaller.shared.getTrendingTVs { result in
                 switch result {
@@ -161,4 +177,16 @@ extension HomeViewController: UITableViewDataSource, UITableViewDelegate {
         let offset = scrollView.contentOffset.y + defaultOffset
         navigationController?.navigationBar.transform = .init(translationX: 0, y: min(0, -offset))
 }
+}
+extension HomeViewController: CollectionViewTableViewCellDelegate {
+    func CollectionTableViewCellDidTapCell(_ cell: CollectionTableViewCell, viewModel: TitlePreviewViewModel) {
+        DispatchQueue.main.async { [weak self] in
+            let vc = TitleResponseViewController()
+            vc.configure(with: viewModel)
+            self?.navigationController?.pushViewController(vc, animated: true)
+        }
+       
+    }
+    
+    
 }

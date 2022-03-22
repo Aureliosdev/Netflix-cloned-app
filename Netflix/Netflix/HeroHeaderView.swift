@@ -34,7 +34,7 @@ class HeroHeaderView: UIView {
         let imageView = UIImageView()
         imageView.contentMode = .scaleAspectFill
         imageView.clipsToBounds = true
-        imageView.image = UIImage(named: "avengers")
+//        imageView.image = UI
         return imageView
     }()
     
@@ -73,6 +73,15 @@ class HeroHeaderView: UIView {
         NSLayoutConstraint.activate(playButtonConstraints)
         NSLayoutConstraint.activate(downLoadButtonConstraints)
     }
+    
+    public func configure(with model: TitleViewModel) {
+        guard let url = URL(string: "https://image.tmdb.org/t/p/w500/\(model.posterURL)") else {return}
+   
+        heroImageView.sd_setImage(with: url, completed: nil)
+    
+    }
+    
+    
     
     override func layoutSubviews() {
         super.layoutSubviews()
